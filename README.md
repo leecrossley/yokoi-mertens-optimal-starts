@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24411641.svg)](https://doi.org/10.5281/zenodo.24411641)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-mertens-optimal-starts). This repository is archived and keeps its releases and DOI.
+
 In the field $\mathbb Q(\sqrt{2{,}380{,}853})$, the prime-ideal Mertens product first dips below its main term at about 143,054.04. This first crossing is certified directly. To exclude all earlier starts for a negative weighted average, including weights extending to infinity, the tail bound assumes GRH for $\zeta(s)L(s,\chi_d)$. The infimum of all successful starting points lies between **137,123.79815 and 137,123.79818**. Every earlier start at or below the lower endpoint fails for every bounded nonnegative decreasing weight, however far the average runs.
 
 The field gives the unique largest value of $\log Y_d/\log d$ across all 8,950 squarefree $d=m^2+4$ with odd $m\le20001$, where $Y_d$ is the starting-point infimum. Its exponent is between 0.80560267 and 0.80560269. Each other field in that range has a successful start below $d^{4/5}$. This is a finite obstruction to the coefficient-one bound $Y_d\le d^{4/5}$. The asymptotic question for sufficiently large fields remains open.
